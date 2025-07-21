@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-TOKEN = os.getenv("TELEGRAM_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+TOKEN = os.getenv("7808035983:AAFhYC_3x0FMaNXQTCHPyjclAYWAoTlncSo")
+CHAT_ID = os.getenv("1669162628")
 PORTFOLIO_FILE = "portfolio.json"
 CHECK_INTERVAL = 60  # giây
 
